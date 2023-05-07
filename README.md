@@ -1,13 +1,13 @@
 Kayıp Eşya Otomasyonu  
+------------------------
+
+*Motivasyon: Kampüste kaybolan eşyaların kaydının tutulması ve rahat bir şekilde bulunup sahibine ulaşmasını amaçlıyorum.*
 
 
-Motivasyon: Kampüste kaybolan eşyaların kaydının tutulması ve rahat bir şekilde bulunup sahibine ulaşmasını amaçlıyorum.
+*Amaç: Bulunan eşyaların bulundukları konum ile beraber veritabanına kaydedilmesi, veritabanında eşya arama*
 
 
-Amaç: Bulunan eşyaların bulundukları konum ile beraber veritabanına kaydedilmesi, veritabanında eşya arama
-
-
-Muhtemel Veritabanı Tabloları: Kayıp eşyaların ismi, bulunduğu tarih, bulunduğu konum
+*Muhtemel Veritabanı Tabloları: Kayıp eşyaların ismi, bulunduğu tarih, bulunduğu konum*
 
 
 
