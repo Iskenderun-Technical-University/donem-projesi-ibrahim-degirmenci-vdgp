@@ -1,3 +1,7 @@
+![otomasyon](https://user-images.githubusercontent.com/116662547/236698569-0df6b1b9-4239-4733-ae56-75ab7a28b5b7.png)
+
+
+
 Kayıp Eşya Otomasyonu  
 ------------------------
 
